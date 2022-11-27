@@ -9,4 +9,4 @@
 - : `+254742143102` WhatsApp
 - : Tittoh Mc_Junky on Facebook
 ---
-!["Developer Desktop Image"]("images/image.jpg")
+![Developer Desktop Image]("images/image.jpg")
