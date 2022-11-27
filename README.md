@@ -9,7 +9,7 @@
 - : `+254742143102` WhatsApp
 - : Tittoh Mc_Junky on Facebook
 ---
-[LinkedIn Profile](https://www.example.com](https://www.google.com)
+[LinkedIn Profile](https://www.google.com)
 
 
 ![Developer Desktop Image]("images/image.jpg")
