@@ -4,7 +4,7 @@
 ## 🌱 I’m currently learning *Java with SpringBoot*.
 ## 💞️ I’m looking to collaborate on Mobile Application in flutter and Laravel API development and hosting.
 ---
-- 📫 How to reach me:
--   => @254_goat on Twitter
--   => `+254742143102` WhatsApp
--   => Tittoh Mc_Junky on Facebook
+### 📫 How to reach me:
+: @254_goat on Twitter
+: `+254742143102` WhatsApp
+: Tittoh Mc_Junky on Facebook
