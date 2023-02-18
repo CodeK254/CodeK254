@@ -12,4 +12,4 @@
 ## [LinkedIn Profile](https://www.linkedin.com/in/titus-kariuki-b69a79218/)
 
 
-![Developer Desktop Image]("images/image.jpg")
+<img src="https://avatars.githubusercontent.com/u/102378729?v=4">
