@@ -12,4 +12,4 @@
 ## [LinkedIn Profile](https://www.linkedin.com/in/titus-kariuki-b69a79218/)
 
 
-<img src="https://avatars.githubusercontent.com/u/102378729?v=4" width=100% height=1520>
+<img src="https://avatars.githubusercontent.com/u/102378729?v=4" width=100% height=1000>
