@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Titus Kariuki</h1>
 <h3 align="center">A passionate Flutter cross-platform developer from Kenya.</h3>
+<img align="right" src="https://visualstudiomagazine.com/articles/2020/08/06/~/media/ECG/visualstudiomagazine/Images/2020/08/flutter_vscode_b.ashx" alt="codek254" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codek254&label=Profile%20views&color=0e75b6&style=flat" alt="codek254" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codek254" alt="codek254" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/codek254" target="blank"><img src="https://img.shields.io/twitter/follow/codek254?logo=twitter&style=for-the-badge" alt="codek254" /></a> </p>
 
