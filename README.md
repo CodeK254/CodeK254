@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Titus Kariuki</h1>
 <h3 align="center">A passionate Flutter cross-platform developer from Kenya.</h3>
 <img align="right" src="https://visualstudiomagazine.com/articles/2020/08/06/~/media/ECG/visualstudiomagazine/Images/2020/08/flutter_vscode_b.ashx" alt="codek254" />
+<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codek254&label=Profile%20views&color=0e75b6&style=flat" alt="codek254" /> </p>
 
